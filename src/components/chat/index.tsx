@@ -164,7 +164,7 @@ const ChatBox = () => {
                 fFamily={BasicVar.font3.label}
             >
                 <Input
-                    placeholder={'Your Message'}
+                    placeholder={'Your Message Here'}
                     rightSide={(
                         <Box onClick={chat} cursor={'pointer'}>
                             <Icon icon={'Send'} fill={BasicVar.color2.label} />
