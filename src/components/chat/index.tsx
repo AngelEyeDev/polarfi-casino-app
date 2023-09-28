@@ -20,7 +20,7 @@ interface MessageType {
 const MessageBox = ({ account, msg, time }: MessageType) => {
     return (
         <FBox
-            g={'0.5rem'}
+            g={'0.7rem'}
         >
             <Box
                 minW={'50px'}
